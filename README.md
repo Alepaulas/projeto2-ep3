@@ -34,6 +34,7 @@ As demais telas do sistema foram desenvolvidas por outro integrante da equipe.
 ## 🏠 Tela Home
 
 A tela inicial apresenta a proposta da plataforma e funciona como porta de entrada do sistema.
+![Home](wireframes/home.png)
 
 ### Componentes principais:
 - Logo do sistema
