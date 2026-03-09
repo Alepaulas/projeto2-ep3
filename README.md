@@ -140,7 +140,7 @@ Cancelar
 A tela de Cadastrar Solicitação permite que usuários solicitem materiais disponíveis no sistema. Dessa forma, pessoas que precisam de determinados itens podem registrar suas demandas.
 Nesta tela o usuário pode registrar materiais escolares que deseja disponibilizar para doação.
 
-![Cadastrar Doação](cadastro_doação.png)
+![Cadastrar Doação](materiais_disponiveis.png)
 
 ### Campos da tela:
 
