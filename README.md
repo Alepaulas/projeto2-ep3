@@ -34,7 +34,7 @@ As demais telas do sistema foram desenvolvidas por outro integrante da equipe.
 ## 🏠 Tela Home
 
 A tela inicial apresenta a proposta da plataforma e funciona como porta de entrada do sistema.
-![Home](1 home.jpg)
+![Home](home.jpg)
 
 ### Componentes principais:
 - Logo do sistema
@@ -52,6 +52,9 @@ Apresentar a plataforma ao usuário de forma clara e direcioná-lo para o acesso
 ## 🔐 Tela de Login
 
 A tela de login foi projetada para permitir que usuários já cadastrados acessem o sistema.
+
+![Login](login.jpg)
+
 
 ### Componentes principais:
 - Header com logo e menu
@@ -72,6 +75,8 @@ Garantir um acesso simples e rápido à plataforma, com poucos campos e navegaç
 ## 📝 Tela de Cadastro
 
 A tela de cadastro permite que novos usuários criem uma conta na plataforma.
+
+![Cadastro](cadastro.jpg)
 
 ### Componentes principais:
 - Header com navegação
@@ -95,6 +100,9 @@ Coletar as informações necessárias para o registro do usuário no sistema, de
 
 O dashboard foi pensado como a tela principal após o login, centralizando as funcionalidades do sistema.
 
+![Dashboard](dashboard.jpg)
+
+
 ### Componentes principais:
 - Header com logo, menu e botão de sair
 - Mensagem de boas-vindas ao usuário
@@ -110,6 +118,9 @@ O dashboard foi pensado como a tela principal após o login, centralizando as fu
 ## 🎒 Cadastrar Doação
 
 Nesta tela o usuário pode registrar materiais escolares que deseja disponibilizar para doação. O formulário permite informar detalhes do material, quantidade e outras informações relevantes.
+
+![Cadastrar Doação](cadastro_doação.png)
+
 
 ### Campos da tela:
 - Nome do material
@@ -129,6 +140,8 @@ Cancelar
 A tela de Cadastrar Solicitação permite que usuários solicitem materiais disponíveis no sistema. Dessa forma, pessoas que precisam de determinados itens podem registrar suas demandas.
 Nesta tela o usuário pode registrar materiais escolares que deseja disponibilizar para doação.
 
+![Cadastrar Doação](cadastro_doação.png)
+
 ### Campos da tela:
 
 - Seleção do material desejado
@@ -144,6 +157,9 @@ Interrompe a solicitação e retorna ao Dashboard.
 ## 🤝 Minhas Doações
 
 Nesta área o usuário pode visualizar e acompanhar todas as doações que cadastrou, permitindo acompanhar os materiais disponibilizados e sua situação dentro da plataforma.
+
+![Minhas Doações](minhas_doações.png)
+
 
 ### Cada item exibido mostra informações como:
 
@@ -161,6 +177,9 @@ Exclui a doação do sistema.
 ## 📥 Minhas Solicitações
 
 A tela Minhas Solicitações permite que o usuário acompanhe os pedidos de materiais realizados, visualizando o status de cada solicitação feita no sistema.
+
+![Minhas Solicitações](minhas_solicitações.png)
+
 
 ### Cada solicitação apresenta informações como:
 
